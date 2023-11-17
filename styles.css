@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.items1{
+	background-color:green;
+	height:130px;
+	width:130px;
+}
+.items2{
+	background-color:green;
+	height:130px;
+	width:130px;
+}
+.items3{
+	background-color:green;
+	height:130px;
+	width:130px;
+}
